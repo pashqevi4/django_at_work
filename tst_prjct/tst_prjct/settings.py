@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'tst_01_app',
     'tst_02_app',
     'tst_03_app',
+    'tst_04_app',
 ]
 
 MIDDLEWARE = [
